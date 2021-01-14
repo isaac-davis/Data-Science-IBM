@@ -1,2 +1,2 @@
 # Data_Science_IBM
-Repository used for IBM Data Science Professional Certificate
+Data_Science_IBM is a personal repository used for IBM Data Science Professional Certificate
